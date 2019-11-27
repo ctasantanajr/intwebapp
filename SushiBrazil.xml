@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="SushiBrazil.xsl"?>
+<sushimenu>
+    <section name="Starters">
+        <entree>
+            <item>Prawn Tempura</item>
+            <price>6.00</price>
+        </entree>
+        <entree>
+            <item>Gyosa Dumpling (6 units)</item>
+            <price>6.00</price>
+        </entree>
+        <entree>
+            <item>Ceviche</item>
+            <price>8.00</price>
+        </entree>
+        <entree>
+            <item>Sunomono</item>
+            <price>7.00</price>
+        </entree>
+        <entree>
+            <item>Shimeji</item>
+            <price>6.00</price>
+        </entree>
+        <entree>
+            <item>Miso Soup</item>
+            <price>3.50</price>
+        </entree>
+        <entree vegetarian="true">
+            <item>Vegetable Spring Rolls</item>
+            <price>5.00</price>
+        </entree>
+    </section>
+    <section name="Sushi">
+
+    </section>    
+    <section name="Combos">
+        
+    </section>
+    <section name='Drink'>
+        <entree>
+            <item>Guarana</item>
+            <price>1.50</price>
+        </entree>
+        <entree>
+            <item>Zero Coke</item>
+            <price>1.50</price>
+        </entree>    
+    </section>
+</sushimenu>
